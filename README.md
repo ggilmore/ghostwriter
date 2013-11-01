@@ -1,9 +1,7 @@
-# Ghostwriter
+# Kirbywriter
 
-A simple AJAX driven theme for [Ghost](http://github.com/tryghost/ghost/).
+A simple theme for [Kirby](http://getkirby.com/).
 
-[View a demo of Ghostwriter](http://roryg.github.io/ghostwriter)
+[View a demo of Ghostwriter](http://roryg.github.io/ghostwriter), the original version of this theme built for the Ghost platform.
 
-[Download Ghostwriter](https://github.com/roryg/ghostwriter/archive/master.zip)
-
-![Ghostwriter home page](https://github.com/roryg/ghostwriter/blob/master/screenshot.png?raw=true)
+[Download Kirbywriter](https://github.com/ggilmore/ghostwriter-kirby/archive/master.zip)
